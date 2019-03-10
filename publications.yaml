@@ -1,5 +1,21 @@
 articles:
 -
+    title: "CHARMM-GUI Membrane Builder for Complex Biological Membrane Simulations with Glycolipids and Lipoglycans"
+    authors: Jumin Lee, Dhilon S Patel, Jonas Ståhle, Sang-Jun Park, Nathan R Kern, Seonghoon Kim, Joonseong Lee, Xi Cheng, Miguel A Valvano, Otto Holst, Yuriy A Knirel, Yifei Qi, Sunhwan Jo, Jeffery B Klauda, Göran Widmalm, Wonpil Im
+    journal: J. Chem. Theory Compute.
+    doi: 10.1021/acs.jctc.8b01066
+    year: 2019
+    volume: 15
+    pages: 775–786
+-
+    title: "Reduced Free Energy Perturbation/Hamiltonian Replica Exchange Molecular Dynamics Method with Unbiased Alchemical Thermodynamic Axis"
+    authors: Wei Jiang, Jonathan Thirman, Sunhwan Jo, Benoît Roux
+    journal: J. Phys. Chem. B
+    doi: 10.1021/acs.jpcb.8b03277
+    year: 2018
+    volume: 122
+    pages: 9435–9442
+-
     title: "Multiple Conformational States Contribute to the 3D Structure of a Glucan Decasaccharide: A Combined SAXS and MD Simulation Study"
     authors: Sunhwan Jo, Daniel Myatt, Yifei Qi, James Doutch, Luke A Clifton, Wonpil Im, Göran Widmalm
     journal: J. Phys. Chem. B
