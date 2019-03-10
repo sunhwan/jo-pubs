@@ -1,5 +1,11 @@
 articles:
 -
+    title: "Exploring protein‐protein interactions using the site‐identification by ligand competitive saturation methodology"
+    authors: Wenbo Yu, Sunhwan Jo, Sirish Kaushik Lakkaraju, David J Weber, Alexander D MacKerell Jr
+    journal: Proteins
+    doi: 10.1002/prot.25650
+    year: 2018
+-
     title: "CHARMM-GUI Membrane Builder for Complex Biological Membrane Simulations with Glycolipids and Lipoglycans"
     authors: Jumin Lee, Dhilon S Patel, Jonas Ståhle, Sang-Jun Park, Nathan R Kern, Seonghoon Kim, Joonseong Lee, Xi Cheng, Miguel A Valvano, Otto Holst, Yuriy A Knirel, Yifei Qi, Sunhwan Jo, Jeffery B Klauda, Göran Widmalm, Wonpil Im
     journal: J. Chem. Theory Compute.
