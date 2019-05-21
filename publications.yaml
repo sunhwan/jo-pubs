@@ -1,10 +1,19 @@
 articles:
 -
+    title: "Optimization and Evaluation of Site-Identification by Ligand Competitive Saturation (SILCS) as a Tool for Target-Based Ligand Optimization."
+    authors: Vincent D Ustach, Sirish Kaushik Lakkaraju, Sunhwan Jo, Wenbo Yu, Wenjuan Jiang, Alexander D MacKerell Jr
+    journal: J. Chem. Inf. Model.
+    doi: 10.1021/acs.jcim.9b00210
+    year: 2019
+-
     title: "Exploring protein‐protein interactions using the site‐identification by ligand competitive saturation methodology"
     authors: Wenbo Yu, Sunhwan Jo, Sirish Kaushik Lakkaraju, David J Weber, Alexander D MacKerell Jr
     journal: Proteins
     doi: 10.1002/prot.25650
-    year: 2018
+    volume: 87
+    issue: 4
+    pages: 289-301
+    year: 2019
 -
     title: "CHARMM-GUI Membrane Builder for Complex Biological Membrane Simulations with Glycolipids and Lipoglycans"
     authors: Jumin Lee, Dhilon S Patel, Jonas Ståhle, Sang-Jun Park, Nathan R Kern, Seonghoon Kim, Joonseong Lee, Xi Cheng, Miguel A Valvano, Otto Holst, Yuriy A Knirel, Yifei Qi, Sunhwan Jo, Jeffery B Klauda, Göran Widmalm, Wonpil Im
